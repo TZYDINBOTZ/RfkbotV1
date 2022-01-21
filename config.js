@@ -15,8 +15,8 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['6289505165400'] // Put your number here //owner eval
-global.kontak = ['6289505165400','0'] //Ketika ada yang ngetik #owner
+global.owner = ['6282232806698'] // Put your number here //owner eval
+global.kontak = ['6282232806698','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6289505165400'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -44,23 +44,23 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namaig = 'https://instagram.com/@nama.random_'
+namagithub = 'https://github.com/OchoBotz'
 kasihcaption = `Nih kak`
-namakontak1 = 'AlyaaXzy'
-namakontak2 = 'AlyaaXzy'
+namakontak1 = 'AchelXyz'
+namakontak2 = 'AchelXzy'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXzy' // ganti aja
-global.author = 'AlyaaXzy' // ganti aja
+global.packname = 'By OchoBotz' // ganti aja
+global.author = 'Hiyaa' // ganti aja
 
 //yyy
 bc = 'AlyaaXzy' //AlyaaXy Broadcast
-footer = '\n©AlyaaXzy'
-namabot = 'AlyaaXzy'
-namalu = 'AlyaaXzy'
+footer = '\n©OchoBotz'
+namabot = 'OchoBotz'
+namalu = 'AchelXyz'
 
 
 // 
